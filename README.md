@@ -24,6 +24,12 @@ To install cJuman, run
 
    % sudo python setup.py install
 
+To create wheel 
+--------------------
+
+To create whl archive, the setuptools and wheel are needed.
+
+   % python setup.py bdist_wheel
 
 License
 --------------------
